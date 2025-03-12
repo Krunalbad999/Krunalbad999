@@ -1,4 +1,4 @@
-(![Image](https://github.com/user-attachments/assets/c82011bc-77c7-417a-98cc-ce5c33986621))
+![Image](https://github.com/user-attachments/assets/c82011bc-77c7-417a-98cc-ce5c33986621)
 <h1 align="center">Hi 👋, I'm Krunal Badgujar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
